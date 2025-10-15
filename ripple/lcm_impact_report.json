@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-15T19:17:47.194307",
+    "llm_model": "pg-llama-33",
+    "total_commits": 3
+  },
+  "reports": [
+    {
+      "analysis_id": "796534e0-6374-45e9-b4c2-7dbf824f46ee",
+      "timestamp": "2025-10-15T19:17:17.895858",
+      "source_repository": "lcm-framework",
+      "source_commit": "ceb1e339d1daa65a8b8ae92e91eb7fea0add81ee",
+      "change_summary": "fix(ENG-842840): Mark pending filter tasks as Succeeded after running all filters (#8786)\n\n* fix(ENG-834321): Operation Failed. Reason: Failed to run LCM operation\n\nReviewers               : Harish, M",
+      "affected_repositories": [],
+      "impact_scores": [],
+      "test_count": 0,
+      "test_coverage": 0.0,
+      "deployment_order": [
+        "lcm-framework"
+      ],
+      "estimated_effort_hours": 0.0
+    },
+    {
+      "analysis_id": "7944e2ed-fb59-4e73-8afd-7d69710849e3",
+      "timestamp": "2025-10-15T19:17:32.299906",
+      "source_repository": "lcm-framework",
+      "source_commit": "c78138f21f02abc4303ab9b44c154fe299a96341",
+      "change_summary": "fix(ENG-841723): Add KB for v2 sign verification failure\n\nReviewers               : LCM-devs\nTickets resolved        : ENG-841723\nTests run               : Upload bundle\nTarget release          : LCM-",
+      "affected_repositories": [],
+      "impact_scores": [],
+      "test_count": 0,
+      "test_coverage": 0.0,
+      "deployment_order": [
+        "lcm-framework"
+      ],
+      "estimated_effort_hours": 0.0
+    },
+    {
+      "analysis_id": "93dd5297-90f3-4345-82af-b2cf9540a268",
+      "timestamp": "2025-10-15T19:17:46.601539",
+      "source_repository": "lcm-framework",
+      "source_commit": "254a4da40499a16459751665c2f23259f97bd088",
+      "change_summary": "fix(ENG-836310): Fix the import issue in lcm_logbay_log_collection\n\nReviewers               : lcm-eng\nTickets resolved        : ENG-836310\nTests run               : manual\nTarget release          : ma",
+      "affected_repositories": [],
+      "impact_scores": [],
+      "test_count": 0,
+      "test_coverage": 0.0,
+      "deployment_order": [
+        "lcm-framework"
+      ],
+      "estimated_effort_hours": 0.0
+    }
+  ]
+}

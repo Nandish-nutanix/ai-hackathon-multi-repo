@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/mahadev.agasar/AI_repo/ai-hpc-next-var-demo/NAI_agent_workshop/ripple/ripple.py", line 44, in <module>
+    from agents.impact_analysis_agent import ImpactAnalysisAgent
+  File "/Users/mahadev.agasar/AI_repo/ai-hpc-next-var-demo/NAI_agent_workshop/ripple/agents/impact_analysis_agent.py", line 11, in <module>
+    from tools.github_tools import GitHubTools
+  File "/Users/mahadev.agasar/AI_repo/ai-hpc-next-var-demo/NAI_agent_workshop/ripple/tools/github_tools.py", line 4, in <module>
+    from github import Github
+ModuleNotFoundError: No module named 'github'
